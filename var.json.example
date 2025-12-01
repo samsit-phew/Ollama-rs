@@ -1,0 +1,4 @@
+{
+  "ollama-host": "127.0.0.1",
+  "ollama-port": 11434
+}
