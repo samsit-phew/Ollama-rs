@@ -3,7 +3,7 @@
 A lightweight, fast Ollama CLI client written in Rust with zero unnecessary dependencies. Interact with local LLMs directly from your terminal.
 
 **Version:** 0.1.0  
-**Author:** samsit mad  
+**Author:** samsit-phew  
 **License:** Apache-2.0
 
 ---
