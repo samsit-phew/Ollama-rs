@@ -4,7 +4,7 @@ A lightweight, fast Ollama CLI client written in Rust with zero unnecessary depe
 
 **Version:** 0.1.0  
 **Author:** samsit mad  
-**License:** MIT
+**License:** Apache-2.0
 
 ---
 
@@ -144,12 +144,6 @@ ollama-rs info
 
 Output:
 ```
-╔═══════════════════════════════════════════╗
-║  🦙  Ollama CLI Client v0.1.0            ║
-║      Fast Local LLM Interactions          ║
-║      by samsit mad                        ║
-╚═══════════════════════════════════════════╝
-
 📋 Configuration:
    Host: 127.0.0.1
    Port: 11434
@@ -411,18 +405,6 @@ Contributions welcome! Feel free to:
 - [ ] Async/parallel request handling
 
 ---
-
-## License
-
-MIT License - See LICENSE file for details
-
----
-
-## Support
-
-For issues, questions, or suggestions:
-
-- **GitHub Issues:** [Create an issue](https://github.com/yourusername/ollama-rs/issues)
-- **Author:** samsit mad
+- **Author:** samsit-phew
 
 Enjoy using Ollama-rs! 🦙✨
