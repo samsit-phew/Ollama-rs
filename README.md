@@ -10,7 +10,7 @@ A lightweight, fast Ollama CLI client written in Rust with zero unnecessary depe
 
 ## Features
 
-✨ **Fast & Lightweight** - Minimal dependencies, quick startup  
+✨ **Fast & Lightweight** - Minimal dependencies, quick startup (can`t guarentee for future) 
 🎯 **Simple Config** - Auto-creates `~/.config/ollama-rs/var.json` with sensible defaults  
 📋 **List Models** - View all available local models with one command  
 💬 **Generate Text** - Send prompts and get formatted responses  
@@ -33,10 +33,16 @@ The binary will be available at `./target/release/ollama-rs`
 
 ### Optional: Install Globally
 
+
+
 ```bash
 cargo install --path .
 ```
-
+ #or if your lazy like me 
+ 
+```bash
+cargo install rs-ollama
+```
 ---
 
 ## Quick Start
